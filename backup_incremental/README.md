@@ -40,4 +40,4 @@ Edite o arquivo `config.json` conforme sua máquina:
 
 No terminal, dentro da pasta do script, execute: python backup_incremental.py
 
-(resultado_backup.png)
+![Resultado de backup](./resultado_backup.png)
